@@ -8,7 +8,7 @@ We will create a simple web application in Node.js, then we will build a Docker 
 
 ## Install Docker Engine
 
-Docker Engine is available on a variety of Linux platforms, macOS and Windows 10 through Docker Desktop, and as a static binary installation. Please follow the Docker [officical document](https://docs.docker.com/engine/install/)  for Docker Installation.
+Docker Engine is available on a variety of Linux platforms, macOS and Windows 10 through Docker Desktop, and as a static binary installation. Please follow the Docker [officical Documention](https://docs.docker.com/engine/install/) for Docker Installation.
 
 ## Building the Docker image
 
