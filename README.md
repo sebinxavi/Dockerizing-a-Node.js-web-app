@@ -12,7 +12,7 @@ Docker Engine is available on a variety of Linux platforms, macOS and Windows 10
 
 ## Building the Docker image
 
-I have already developed the Dockerfile and Node.js app and it is available in 
+I have already developed the Dockerfile and Node.js app and it is available in my [GitHub Repository](https://github.com/sebinxavi/Dockerizing-a-Node.js-web-app/)
 
 ### Node.js app
 
