@@ -59,7 +59,7 @@ cd Dockerizing-a-Node.js-web-app/
 docker build -t <your username>/node-web-app> . 
 ~~~
 
-![demo](http://prnt.sc/155uf3h)
+![demo](https://i.ibb.co/Fb4tCQP/1.png)
 
 
 Your image will now be listed by Docker by the command:
