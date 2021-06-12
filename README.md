@@ -103,3 +103,6 @@ I have uploaded this Container Image to docker hub and you can download the imag
 ~~~sh
 docker pull sebinxavi/node-web-app:1
 ~~~
+
+## Author Information
+Sebin Xavi
