@@ -94,11 +94,9 @@ curl -L http://SERVER-IP:80
 
 ![alt text](https://i.ibb.co/P1wqtmh/6.png)
 
-## Docker Hub repositories
+## Docker Hub Repositories
 
-You can also push this image to Docker Hub repositories
-
-[Docker Hub repositories](https://docs.docker.com/docker-hub/repos/) allow you share container images with your team, customers, or the Docker community at large.
+You can also push this image to Docker Hub repositories. [Docker Hub repositories](https://docs.docker.com/docker-hub/repos/) allow you share container images with your team, customers, or the Docker community at large.
 
 I have uploaded this Container Image to docker hub and you can download the image by the following command,
 
