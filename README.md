@@ -67,21 +67,21 @@ Your image will now be listed by Docker by the command:
 docker images ls
 ~~~
 
-![alt text](http://prnt.sc/155ukm4)
+![alt text](https://i.ibb.co/NxhZn42/2.png)
 
 Now run the container from the Image created:
 ~~~sh
 docker container run --name nodejs -p 80:3000 -d <your username>/node-web-app>
 ~~~
 
-![alt text](http://prnt.sc/155uobr)
+![alt text](https://i.ibb.co/vJBHZYk/3.png)
 
 To test your app, get the port of your app that Docker mapped:
 ~~~sh
 docker container ls
 ~~~
 
-![alt text](http://prnt.sc/155uupq)
+![alt text](https://i.ibb.co/LxvcJCw/4.png)
 
 In the example above, Docker mapped the 3000 port inside of the container to the port 80 on your machine.
 
@@ -90,9 +90,9 @@ Now you can test your app using curl or access the server IP through web browser
 curl -I http://SERVER-IP:80
 curl -L http://SERVER-IP:80
 ~~~
-![alt text](http://prnt.sc/155v3jm)
+![alt text](https://i.ibb.co/Z1TK8P3/5.png)
 
-![alt text](http://prnt.sc/155vasx)
+![alt text](https://i.ibb.co/P1wqtmh/6.png)
 
 You can also push this image to Docker Hub repositories
 
